@@ -42,7 +42,7 @@ The Protein Data Bank has been instrumental in advancing research within the lif
 
 1. Push your changes to your forked repository.
 2. Submit a pull request (PR) from your branch to the main repository.
-3. Provide a clear and descriptive title for your PR. If you are considering to submit an entire ipynb file include your username and model implemented in the tiltle in the following format: <username>_<model>.ipynb
+3. Provide a clear and descriptive title for your PR. If you are considering to submit an entire ipynb file include your username and model implemented in the tiltle in the following format: <p>&lt;username&gt;_&lt;modelName&gt;.ipynb</p>
 4. Include relevant information and context in the PR description.
 5. Be responsive to any feedback or questions during the review process.
 
